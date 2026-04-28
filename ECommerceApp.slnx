@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Çözüm Öğeleri/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ECommerceApp.Core/ECommerceApp.Core.csproj" Id="6f111922-f79e-410e-bb52-d28f845e6682" />
+  <Project Path="ECommerceApp.Tests/ECommerceApp.Tests.csproj" Id="3796ee64-8920-4d3c-8c66-6902d975951e" />
+</Solution>
